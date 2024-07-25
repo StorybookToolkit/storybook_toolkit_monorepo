@@ -1,0 +1,15 @@
+[submodule "packages/vader_popup"]
+	path = packages/vader_popup
+	url = git@github.com:mjablecnik/vader_popup.git
+[submodule "packages/device_frame_plus"]
+	path = packages/device_frame_plus
+	url = git@github.com:mjablecnik/device_frame_plus.git
+[submodule "packages/adaptive_golden_test"]
+	path = packages/adaptive_golden_test
+	url = git@github.com:mjablecnik/adaptive_golden_test.git
+[submodule "packages/storybook_toolkit"]
+	path = packages/storybook_toolkit
+	url = git@github.com:mjablecnik/storybook_toolkit.git
+[submodule "packages/storybook_toolkit_tester"]
+	path = packages/storybook_toolkit_tester
+	url = git@github.com:mjablecnik/storybook_toolkit_tester.git

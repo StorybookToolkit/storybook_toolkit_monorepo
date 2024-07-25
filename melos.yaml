@@ -1,0 +1,7 @@
+name: flutter_packages
+sdkPath: .fvm/flutter_sdk
+packages:
+  - packages/**
+ignore:
+  - packages/**/example
+
