@@ -3,3 +3,4 @@
 .vscode/
 *.iml
 .dart_tool/
+**/pubspec_overrides.yaml
